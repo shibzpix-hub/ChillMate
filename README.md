@@ -133,10 +133,10 @@ This project is licensed under the MIT License.
 
 💬 Contact
 
-Developer: [Your Name or Team Name]
-Company: Anon Intelligence
-Website: [your-website.com]
-Email: [contact@yourdomain.com]
+Developer: [Sam Sheppard]
+Company: ShibzPix
+Email: shibzpix@gmail.com
+
 
 ⸻
 
