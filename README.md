@@ -94,16 +94,6 @@ npm start
 
 ⸻
 
-📸 Screenshots
-
-(Optional — add screenshots or GIFs here)
-
-/assets/screenshots/home.png  
-/assets/screenshots/fridge.png  
-/assets/screenshots/shopping.png
-
-
-⸻
 
 🧩 Future Updates
 	•	AI-powered recipe suggestions
